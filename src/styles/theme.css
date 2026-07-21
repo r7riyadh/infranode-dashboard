@@ -1,0 +1,14 @@
+:root {
+  /* Default: Light Mode */
+  --bg-color: hsl(210, 20%, 96%);
+  --surface-color: hsl(0, 0%, 100%);
+  --text-primary: hsl(222, 47%, 11%);
+  --text-secondary: hsl(215, 20%, 40%);
+  --border-color: hsl(214, 32%, 91%);
+  
+  /* Shared Accent Colors */
+  --color-success: hsl(160, 84%, 39%);
+  --color-warning: hsl(38, 92%, 50%);
+  --color-critical: hsl(0, 84%, 60%);
+  --color-primary: hsl(217, 91%, 60%);
+}
